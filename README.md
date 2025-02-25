@@ -1,5 +1,5 @@
 # Unity-IMU-Flex
- Integrating Flex sensor and IMU in Unity
+ Integrating Flex sensor and IMU in Unity to control a virtual hand.
 
 Sensors used
 - Flex sensor x3
